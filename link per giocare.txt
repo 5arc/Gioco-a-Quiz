@@ -1,0 +1,7 @@
+Videogioco a Quiz creato su Microsoft Makecode in Arcade.
+
+Videogioco con 20 domande sulla Storia,Geografia e Videogiochi.
+
+Prima di iniziare parlare con l'NPC che si trova davanti lo spawn.
+
+LINK PER GIOCARCI : https://arcade.makecode.com/S54635-59503-06572-58493
